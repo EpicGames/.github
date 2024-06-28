@@ -1,7 +1,5 @@
 ![UnrealEngine](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
 
-New members requesting to join this organization will now be added to a secondary Epic Games organization. Read more [here](https://forums.unrealengine.com/t/maintenance-on-the-epic-games-github-organization-june-2024/1891135).
-
 `Epic Games` houses repositories associated with the [UnrealEngine](https://www.unrealengine.com/)
 
 [Unreal Engine](https://www.unrealengine.com/en-US/solutions/games) for game development is free to get started (a 5% royalty only kicks in when your title earns over $1 million USD)
