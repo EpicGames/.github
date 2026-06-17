@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EpicGames/.github/main/profile/epic-games-logo.webp" alt="Epic Games" width="320">
+</p>
+
 Official GitHub presence for Epic Games with a broad range of Epic-maintained developer tools & technologies. Here you'll find two main types of repositories:
 
 - **Unreal Engine & other licensed source repositories**, requiring Epic account linkage and acceptance of the applicable Epic license agreement before access is granted.
