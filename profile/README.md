@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EpicGames/.github/main/profile/epic-games-logo.webp" alt="Epic Games" width="320">
+  <img src="https://avatars.githubusercontent.com/u/161372141?s=400&u=7ec68094c5020c7d758bc9d9ce023cb86c21fb80&v=4" alt="Epic Games" width="320">
 </p>
 
 Official GitHub presence for Epic Games with a broad range of Epic-maintained developer tools & technologies. Here you'll find two main types of repositories:
