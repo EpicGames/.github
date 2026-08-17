@@ -24,7 +24,7 @@ After that, you can find our repositories here:
 
 Please note:
 
-- You must be signed into GitHub for these links to work. Once you have access, these repositories are clearly labeled with the topics `unreal-engine` or `epic-eula`.
+- You must be signed into GitHub and registered for access for these links to work. Once you have access, these repositories are clearly labeled with the topics `unreal-engine` or `epic-eula`.
 - Contributions to licensed Unreal Engine source repositories remain subject to the applicable Epic license agreements.
 
 ---
